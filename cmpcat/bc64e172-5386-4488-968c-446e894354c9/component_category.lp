@@ -1,0 +1,10 @@
+(librepcb_component_category bc64e172-5386-4488-968c-446e894354c9
+ (name "Cortex-M0+")
+ (description "")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-07-28T20:22:06Z)
+ (deprecated false)
+ (parent dbeddcd6-5dfd-4220-8e02-0e1761135ed0)
+)

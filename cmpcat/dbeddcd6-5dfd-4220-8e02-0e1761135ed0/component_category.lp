@@ -1,0 +1,10 @@
+(librepcb_component_category dbeddcd6-5dfd-4220-8e02-0e1761135ed0
+ (name "Microcontrollers-32-bit")
+ (description "")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-07-28T20:21:01Z)
+ (deprecated false)
+ (parent 22151601-c2d9-419a-87bc-266f9c7c3459)
+)
