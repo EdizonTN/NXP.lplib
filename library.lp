@@ -7,4 +7,5 @@
  (created 2019-07-28T19:05:29Z)
  (deprecated false)
  (url "https://github.com/EdizonTN/NXP.lplib")
+ (dependency 42d8d2f4-d524-4472-853b-b434e3f76b71)
 )
