@@ -14,6 +14,7 @@
  (attribute "USERS_MANUAL" (type string) (unit none) (value "https://www.nxp.com/webapp/Download\?colCode=UM10800"))
  (attribute "ORDERCODE_FARNELL" (type string) (unit none) (value "2448376"))
  (attribute "ORDERCODE_MOUSER" (type string) (unit none) (value "771-LPC824M201JDH20J"))
+ (attribute "MPU" (type string) (unit none) (value "LPC824M201JDH20J"))
  (signal cc670157-3f33-4689-beb9-007fef3f914a (name "RESET/PIO0_5") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
