@@ -75,7 +75,7 @@
  (signal 1a75daa3-e8f6-4545-8637-a5f16dd0d671 (name "SWCLK/PIO0_3/TCK") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (variant 8940d9e1-df17-489a-a8e2-adf122515563 (norm "")
+ (variant 8940d9e1-df17-489a-a8e2-adf122515563 (norm "IEC 60617")
   (name "default")
   (description "")
   (gate fa7ee1bc-50ce-4002-a119-7c24166886e0
