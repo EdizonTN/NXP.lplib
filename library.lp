@@ -1,6 +1,6 @@
 (librepcb_library edbdd32c-10b1-44ee-bc13-5caff3db2937
  (name "NXP")
- (description "This is an unnoficial testing LibrePCB library.\nLibrary contains some NXP Components.")
+ (description "This is an unnoficial testing LibrePCB library.\nNXP.\nMicrocontrollers with order codes and link to datasheet.")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
